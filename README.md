@@ -2,7 +2,7 @@
 
 ## Live user filter
 
-### Technologys
+### Technologies
 
 React, html, css, javascript
 
