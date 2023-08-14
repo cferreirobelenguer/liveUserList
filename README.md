@@ -8,7 +8,7 @@ React, html, css, javascript
 
 ### Prototype
 
-https://50projects50days.com/projects/live-user-filter/
+- https://50projects50days.com/projects/live-user-filter/
 ![Alt text](image.png)
 
 ### Description
