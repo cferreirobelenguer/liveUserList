@@ -1,0 +1,35 @@
+.user-container {
+    overflow-y: scroll;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    max-height: 400px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.user-container-item {
+    border-bottom: 1px solid #eee;
+    padding: 20px;
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+}
+
+.user-container-item-text {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.user-text {
+    margin: 0;
+}
+
+.user-img {
+    border-radius: 50%;
+    object-fit: cover;
+    height: 50px;
+    width: 50px;
+}
